@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbf4171-3407-4a9c-b341-e5a6eb18dd37" name="Default Changelist" comment="" />
+    <list default="true" id="be62e441-0243-499f-9748-827be9684211" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +25,12 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1c5IdrRdgyWPkLVcR4FHuNlwDpW" />
+  <component name="ProjectId" id="1cJCHmEYwQgfNL7rsyHA98NPXOI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../0021/itmayiedu_thread_jdbcs_day21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../erqi/008/socketdemo01" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -53,15 +53,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cdbf4171-3407-4a9c-b341-e5a6eb18dd37" name="Default Changelist" comment="" />
-      <created>1589812117533</created>
+      <changelist id="be62e441-0243-499f-9748-827be9684211" name="Default Changelist" comment="" />
+      <created>1590237223461</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589812117533</updated>
-      <workItem from="1589812121829" duration="31000" />
-      <workItem from="1589812221961" duration="3666000" />
-      <workItem from="1589888579389" duration="1932000" />
-      <workItem from="1589975436227" duration="3219000" />
+      <updated>1590237223461</updated>
+      <workItem from="1590237225984" duration="1881000" />
     </task>
     <servers />
   </component>
